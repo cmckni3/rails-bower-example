@@ -1,16 +1,20 @@
-# Bower Rails Example App
+Bower Rails Example App
+=======================
 
-## Overview
+Overview
+--------
 
-### An example Rails application that uses [bower-rails](https://github.com/42dev/bower-rails) for vendor assets
+An example Rails application that uses [bower-rails](https://github.com/42dev/bower-rails) for vendor assets.
 
-## Usage
+Usage
+-----
 
 ```
 bundle install
 rails s
 ```
 
-## License
+License
+-------
 
-# Bower Rails Example App is released under the MIT License. Please see the LICENSE file for details.
+Bower Rails Example App is released under the MIT License. Please see the [LICENSE](/LICENSE) file for details.
