@@ -3,5 +3,5 @@
 
 # asset 'bootstrap'
 group :vendor do
-  asset 'knockout.js'
+  asset 'knockout.js', '~3.0.0'
 end
